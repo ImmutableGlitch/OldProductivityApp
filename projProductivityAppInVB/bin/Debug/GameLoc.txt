@@ -1,0 +1,32 @@
+Z:\Games\Installed\AC Rev\ACRSP.exe
+Z:\Games\Installed\AC 3\AC3SP.exe
+Z:\Games\Installed\Assassins Creed IV Black Flag\AC4BFSP.exe
+Z:\Games\Installed\Alan Wake\AlanWake.exe
+Z:\Games\Installed\Apache Air Assault\launcher.exe
+Z:\Games\Installed\Arma III\arma3.exe
+Z:\Games\Installed\Origin\gamesloc\Battlefield 3\bf3.exe
+Z:\Games\Installed\Origin\gamesloc\Battlefield Bad Company 2\BFBC2Game.exe
+Z:\Games\Installed\Black Ops\BlackOps.exe
+Z:\Games\Installed\COD4\iw3sp.exe
+Z:\Games\Installed\Call of Duty World at War\Call of Duty - World at War\CoDWaW.exe
+Z:\Games\Installed\Command & Conquer The First Decade\Launcher\TFDLauncher.exe
+Z:\Games\Installed\Crysis 3\Bin32\Crysis3.exe
+Z:\Games\Installed\Dishonored\Binaries\Win32\Dishonored.exe
+Z:\Games\Installed\Dying Light\DyingLightGame.exe
+Z:\Games\Installed\Empire Earth II\EE2.exe
+Z:\Games\Installed\Empire Earth II\EE2X.exe
+Z:\Games\Installed\Fallout 3\FalloutLauncher.exe
+Z:\Games\Installed\Far Cry 2\bin\FarCry2.exe
+Z:\Games\Installed\Far Cry 3\bin\farcry3_d3d11.exe
+Z:\Games\Installed\Far Cry 3 Blood Dragon\bin\fc3_blooddragon_d3d11.exe
+Z:\Games\Installed\Far Cry 4\bin\FarCry4.exe
+Z:\Games\Installed\Goat Simulator\Binaries\Win32\GoatGame-Win32-Shipping.exe
+Z:\Games\Installed\SteamLibrary\SteamApps\common\Grand Theft Auto San Andreas\gta-sa.exe
+Z:\Games\Installed\SteamLibrary\SteamApps\common\Grand Theft Auto IV\GTAIV\GTAIV.exe
+Z:\Games\Installed\Hitman Absolution\HMA.exe
+Z:\Games\Installed\SteamLibrary\SteamApps\common\Just Cause 2\JustCause2.exe
+Z:\Games\Installed\SteamLibrary\SteamApps\common\Just Cause 2 - Multiplayer Mod\JcmpLauncher.exe
+Z:\Games\Installed\Arma2\arma2OA.exe
+Z:\Games\Installed\BioShock Infinite\Binaries\Win32\BioShockInfinite.exe
+Z:\Games\Installed\SteamLibrary\SteamApps\common\Grand Theft Auto V\GTAVLauncher.exe
+Z:\Games\Installed\The Elder Scrolls V Skyrim\SkyrimLauncher.exe

@@ -1,0 +1,108 @@
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe.config
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.pdb
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.xml
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.Resources.resources
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbproj.GenerateResource.Cache
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.exe
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.xml
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.pdb
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmBooks.resources
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMenu.resources
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmGames.resources
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmProgramming.resources
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmVideos.resources
+Z:\Programming\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbprojResolveAssemblyReference.cache
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe.config
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.pdb
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.xml
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmBooks.resources
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmGames.resources
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMenu.resources
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmProgramming.resources
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmVideos.resources
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.Resources.resources
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbproj.GenerateResource.Cache
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.exe
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.xml
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.pdb
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbprojResolveAssemblyReference.cache
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMusic.resources
+Z:\Programming\.NET Training\.NET Projects mine\solProductivityAppInVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmArt.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe.config
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.pdb
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.xml
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmArt.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmBooks.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmGame.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMenu.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMusic.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmProgramming.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmTest.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmVideos.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.Resources.resources
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbproj.GenerateResource.Cache
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.exe
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.xml
+Z:\Programming\.NET Training\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.pdb
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe.config
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.exe
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.xml
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.pdb
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.pdb
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.xml
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmArt.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmBooks.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmGame.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMenu.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMusic.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmProgramming.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmTest.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmVideos.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.Resources.resources
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbproj.GenerateResource.Cache
+Z:\Programming\DotNET\.NET Projects mine\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbprojResolveAssemblyReference.cache
+E:\Programming\DotNET\Projects\DONE\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe.config
+E:\Programming\DotNET\Projects\DONE\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.exe
+E:\Programming\DotNET\Projects\DONE\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.xml
+E:\Programming\DotNET\Projects\DONE\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.pdb
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe.config
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.exe
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.xml
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.pdb
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.pdb
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.xml
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbprojResolveAssemblyReference.cache
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmArt.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmBooks.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmGame.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMenu.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMusic.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmProgramming.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmTest.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmVideos.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.Resources.resources
+E:\Programming\DotNET\Projects\LauncherApp\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbproj.GenerateResource.Cache
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe.config
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.exe
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.xml
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.pdb
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.exe
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.pdb
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\bin\Debug\projProductivityAppInVB.xml
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbprojResolveAssemblyReference.cache
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmArt.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmBooks.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmGame.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMenu.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmMusic.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmProgramming.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmTest.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.frmVideos.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.Resources.resources
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbproj.GenerateResource.Cache
+E:\Hobbies\Programming\DotNET\Projects\LauncherAppVB\projProductivityAppInVB\obj\Debug\projProductivityAppInVB.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,191 @@
+BUILD TIMESTAMP:   Nov 11 2014 20:47:46
+TIMER freq: ticks/usec=3 ticks/msec=3906
+
+  0.00 [D]  Thread "Watchdog thread" started (auto delete is 1)
+Current language is English
+  0.00 [D]  Launcher application ID: WarThunderLauncher
+  0.00 [D]  Thread "Stat sender init" started (auto delete is 1)
+windowsVer = 6.1
+  0.01 [D]  Current language is English
+  0.01 [D]  Launcher version 1.0.1.465
+  0.01 [D]  Checking for copy...
+  0.04 [D]  Thread "Stat sender init" done
+Thread "Stat sender init" has been automatically deleted
+element portstatus_checking attr set: display = block
+  0.07 [D]  element portstatus_failed attr set: display = none
+  0.08 [D]  settings.constructor fileNameLoad =Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\config.blk
+  0.08 [D]  settings.constructor fileNameSave =Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\config.blk
+  0.10 [D]  HD client on
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_11_13_23_17_21__4616.txt : size so far 395339 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_11_11_21_41_24__5808.txt : size so far 408757 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_11_11_20_17_27__456.txt : size so far 805480 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_11_11_20_17_24__316.txt : size so far 904760 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_11_04_19_12_32__6804.txt : size so far 917564 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_11_04_18_40_53__4752.txt : size so far 1314878 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_11_04_18_40_48__6972.txt : size so far 1411791 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_10_17_20_47_24__6600.txt : size so far 2466253 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_10_17_20_14_15__5652.txt : size so far 2478449 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_10_17_18_26_13__1684.txt : size so far 3012696 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.launcher_log\2014_10_17_18_26_09__1720.txt : size so far 3131480 of 52428800
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.game_logs\2014_11_13_23_17_38__3948.clog : size so far 3293236 of 1048576000
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.game_logs\2014_11_11_21_41_27__5736.clog : size so far 3952838 of 1048576000
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.game_logs\2014_11_11_20_17_59__6056.clog : size so far 8909297 of 1048576000
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.game_logs\2014_11_04_19_12_36__5668.clog : size so far 11648520 of 1048576000
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.game_logs\2014_11_04_18_41_17__7036.clog : size so far 11713490 of 1048576000
+  0.10 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\.game_logs\2014_10_17_20_14_19__2124.clog : size so far 13437685 of 1048576000
+  0.13 [D]  expertMode = false
+  0.13 [D]  element server_option attr set: display = none
+  0.13 [D]  element curCircuitSel attr set: display = none
+  0.13 [D]  element nightly attr set: display = none
+  0.13 [D]  element experimentalCircuitOpt attr set: display = none
+  0.13 [D]  element testCircuitOpt attr set: display = none
+  0.13 [D]  onInit: curCircuit = production
+  0.13 [D]  onInit: productionCircuit = production
+  0.13 [D]  Thread "Async ping" started (auto delete is 1)
+element dnl_speed_rate attr set: display = none
+  0.13 [D]  upl_speed_rate = 0
+  0.13 [D]  Set upload limit to 0 (0.00 MB/sec)
+dnl_speed_rate = 0
+  0.13 [D]  Set download limit to 0 (0.00 MB/sec)
+element upl_speed_rate attr set: display = none
+  0.13 [D]  upl_speed_rate = 0
+  0.13 [D]  Set upload limit to 0 (0.00 MB/sec)
+dnl_speed_rate = 0
+  0.13 [D]  Set download limit to 0 (0.00 MB/sec)
+upl_speed_rate = 0
+  0.13 [D]  Set upload limit to 0 (0.00 MB/sec)
+dnl_speed_rate = 0
+  0.13 [D]  Set download limit to 0 (0.00 MB/sec)
+tag set to default (empty) because of production circuit
+  0.13 [D]  yupProject = warthunder
+  0.13 [D]  Couldn't resolve host seeder.gaijin.lan; error #11001
+  0.13 [D]  Ping to seeder.gaijin.lan: 0
+  0.13 [D]  Thread "Async ping" done
+Thread "Async ping" has been automatically deleted
+tag set to default (empty) because of production circuit
+  0.13 [D]  custom settings are not avaialble
+  0.13 [D]  yupProjectTag = 
+  0.13 [D]  onInit: yupTag
+  0.13 [D]  Thread "http://yupmaster.gaijinent.com/launcher/cdn_conf.php" started (auto delete is 1)
+Sending request to http://yupmaster.gaijinent.com/launcher/cdn_conf.php
+tag set to default (empty) because of production circuit
+  0.13 [D]  yupProject = warthunder
+  0.20 [D]  Shell execute "cmd" /c md content
+  0.22 [D]  Current language is English
+  0.22 [D]  Trying to create folder Z:/Games/Installed/SteamLibrary/SteamApps/common/War Thunder/content/
+  0.22 [D]  tag set to default (empty) because of production circuit
+  0.22 [D]  yupProject = warthunder
+  0.22 [D]  Downloading state 0
+  0.22 [D]  Looking for content pack requests in Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\content
+Found pack request Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\content\pkg_English.rq2
+Enable pack pkg_English
+Found pack request Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\content\pkg_main.rq2
+Enable pack pkg_main
+tag set to default (empty) because of production circuit
+  0.22 [D]  yupProject = warthunder
+  0.22 [D]  tag set to default (empty) because of production circuit
+  0.22 [D]  yupProject = warthunder
+  0.22 [D]  Current language is English
+  0.22 [D]  enableCarousel is off, so carousel feature is disabled
+  0.22 [D]  Thread "http://warthunder.com/news3-en.html" started (auto delete is 1)  0.22 [D]  onInitComplete() done
+
+Web UI disabled
+Sending request to http://warthunder.com/news3-en.html
+Thread "http://yupmaster.gaijinent.com/launcher/version.php" started (auto delete is 1)
+Sending request to http://yupmaster.gaijinent.com/launcher/version.php
+http://yupmaster.gaijinent.com/launcher/cdn_conf.php loaded with HTTP status code 200 (0.109 seconds, 5080 bytes answer):
+=======
+{"status":"OK","ip":"82.18.172.93","country":"GB","project":"warthunder","tag":null,"trackers":["udp:\/\/yuptracker.gaijinent.com:27022\/announce","http:\/\/retracker.local\/announce"],"speed_min":2097152,"speed_good":3145728,"seeds":[{"url":"http:\/\/seedfr.gaijinent.com\/content\/","tier":2},{"url":"http:\/\/seedfr2.gaijinent.com\/content\/","tier":2},{"url":"http:\/\/seedfr3.gaijinent.com\/content\/","tier":2},{"url":"http:\/\/seedrum.gaijinent.com\/content\/","tier":2},{"url":"http:\/\/seeduk.gaijinent.com\/content\/","tier":1},{"url":"http:\/\/seedus2.gaijinent.com\/content\/","tier":3},{"url":"http:\/\/seedus3.gaijinent.com\/content\/","tier":3},{"url":"http:\/\/seedrum2.gaijinent.com\/content\/","tier":2},{"url":"http:\/\/seeduk2.gaijinent.com\/content\/","tier":1},{"url":"http:\/\/seeduk3.gaijinent.com\/content\/","tier":1},{"url":"http:\/\/seedus4.gaijinent.com\/content\/","tier":3},{"url":"http:\/\/seedus5.gaijinent.com\/content\/","tier":3},{"url":"http:\/\/seedus6.gaijinent.com\/content\/","tier":
+=======
+Thread "http://yupmaster.gaijinent.com/launcher/cdn_conf.php" done
+Thread "http://yupmaster.gaijinent.com/launcher/cdn_conf.php" has been automatically deleted
+http://yupmaster.gaijinent.com/launcher/version.php loaded with HTTP status code 200 (0.093 seconds, 9 bytes answer):
+=======
+1.0.1.465
+=======
+Thread "http://yupmaster.gaijinent.com/launcher/version.php" done
+Thread "http://yupmaster.gaijinent.com/launcher/version.php" has been automatically deleted
+tag set to default (empty) because of production circuit
+  0.34 [D]  yupProject = warthunder
+  0.34 [D]  tag set to default (empty) because of production circuit
+  0.34 [D]  custom settings are not avaialble
+  0.34 [D]  yupProjectTag = 
+  0.34 [D]  checkGameVersion: gameFolder = Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder; project = warthunder; Tag = 
+  0.34 [D]  tag set to default (empty) because of production circuit
+  0.34 [D]  yupProject = warthunder
+  0.34 [D]  tag set to default (empty) because of production circuit
+  0.34 [D]  custom settings are not avaialble
+  0.34 [D]  yupProjectTag = 
+  0.34 [D]  Thread "Periodic version check" started (auto delete is 1)
+Thread "http://yupmaster.gaijinent.com/yuitem/get_version.php" started (auto delete is 1)
+Sending request to http://yupmaster.gaijinent.com/yuitem/get_version.php
+http://warthunder.com/news3-en.html loaded with HTTP status code 200 (0.125 seconds, 4729 bytes answer):
+=======
+<html> <head>     <meta http-equiv="content-type" content="text/html; charset=utf-8">     <style type="text/css">         a { color:#ffffff; }     </style> </head> <body>          <div class='news_block'>         <div class='news_item'>              <div class='news_item_date'>14 November 2014</div>             <div class='news_item_text'>                                                              <a href="http://warthunder.com/en/news/2603-special-lend-lease-the-neutral-savior-en" target="_blank">[Special] Lend Lease, the Neutral Savior</a>                                                  </div>          </div>     </div>     <div class='news_block'>         <div class='news_item'>              <div class='news_item_date'>14 November 2014</div>             <div class='news_item_text'>                                                              <a href="http://warthunder.com/en/news/2623-formula-war-thunder-the-first-stage-en" target="_blank">"Formula War Thunder”: The First Stage</a>                    
+=======
+Thread "http://warthunder.com/news3-en.html" done
+Thread "http://warthunder.com/news3-en.html" has been automatically deleted
+http://yupmaster.gaijinent.com/yuitem/get_version.php loaded with HTTP status code 200 (0.078 seconds, 9 bytes answer):
+=======
+1.43.9.65
+=======
+Thread "http://yupmaster.gaijinent.com/yuitem/get_version.php" done
+Thread "http://yupmaster.gaijinent.com/yuitem/get_version.php" has been automatically deleted
+tag set to default (empty) because of production circuit
+  0.48 [D]  yupProject = warthunder
+  0.48 [D]  yupResume = warthunder.yup.resume
+  0.48 [D]  tag set to default (empty) because of production circuit
+  0.48 [D]  yupProject = warthunder
+  0.48 [D]  Fast files check
+  0.58 [D]  Corrupted files
+  0.58 [D]  Thread "Fast files check" started (auto delete is 1)
+Checking .rq2 and .ver files match...
+Found pack request Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\content\pkg_English.rq2
+Found pack request Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\content\pkg_main.rq2
+Squirrel CB duplicates eaten
+  0.58 [D]  Squirrel CB duplicates eaten
+  0.58 [D]  Squirrel CB duplicates eaten
+  0.58 [D]  Squirrel CB duplicates eaten
+  0.58 [D]  Squirrel CB duplicates eaten
+  0.59 [D]  Processing Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\pc.zip...
+3 files in Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\pc.zip
+Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\redist\dxwebsetup.exe translated to Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\redist\dxwebsetup.exe
+In-zip file Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\redist\dxwebsetup.exe size match: 292184
+Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\aces.exe translated to Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\aces.exe
+In-zip file Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\aces.exe size match: 14989312
+Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\pcnsl.exe translated to Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\pcnsl.exe
+In-zip file Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\pcnsl.exe size match: 526080
+Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\pc.zip succesfully done
+Files check done
+  0.63 [D]  Z:\Games\Installed\SteamLibrary\SteamApps\common\War Thunder\content\warthunder.blk saved
+  0.63 [D]  Fast check done
+Thread "Fast files check" done
+Thread "Fast files check" has been automatically deleted
+element RUN_BUTTON attr set: display = block
+  0.63 [D]  element PAUSE_BUTTON attr set: display = none
+  0.63 [D]  Enable run game button
+  0.63 [D]  element progressbar_complete attr set: display = block
+  0.63 [D]  element progressbar_bar attr set: display = none
+  0.63 [D]  element check_files attr set: display = block
+  0.63 [D]  current frame = run_game
+  0.63 [D]  element ver_progress attr set: display = none
+  0.63 [D]  element load_launcher attr set: display = none
+  0.63 [D]  element downloading_launcher attr set: display = none
+  0.63 [D]  element need_check attr set: display = none
+  0.63 [D]  element checking_files attr set: display = none
+  0.63 [D]  element downloading_files attr set: display = none
+  0.63 [D]  element need_download attr set: display = none
+  0.63 [D]  element run_game attr set: display = block
+  0.63 [D]  element uninstall attr set: display = none
+  1.29 [D]  element portstatus_checking attr set: display = none
+  1.29 [D]  element portstatus_failed attr set: display = none
+  1.29 [D]  netstate_ok
+  4.00 [D]  cloudsQuality set
+  4.01 [D]  Shell execute "cmd" /c start aces.exe -forcestart
+  4.03 [D]  cloudsQuality set
+  4.04 [D]  Script shut down
+  4.04 [D]  Exit with code 0
+  4.04 [D]  Stop thread "Watchdog thread"
+Thread "Periodic version check" done
+Thread "Periodic version check" has been automatically deleted
+Thread "Watchdog thread" done
