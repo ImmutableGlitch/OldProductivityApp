@@ -1,7 +1,7 @@
 ﻿Imports System.IO
 
 Public Class frmBooks
-    Dim dir As String = "Z:\Dropbox\Dropbox\Books"
+    Dim dir As String = "E:\Data\Dropbox\Dropbox\Books"
     Dim FileLocation As DirectoryInfo = New DirectoryInfo(dir)
     Dim fi As List(Of FileInfo) = New List(Of FileInfo)
 

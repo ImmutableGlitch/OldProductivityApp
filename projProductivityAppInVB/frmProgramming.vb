@@ -1,5 +1,5 @@
 ﻿Public Class frmProgramming
-    Dim path As String = "Z:\Programming"
+    Dim path As String = "E:\Hobbies\Programming"
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         Me.Hide()
